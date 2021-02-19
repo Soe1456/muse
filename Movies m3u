@@ -1,0 +1,48 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="xxxxxx",TVB THAI
+https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="xxxxxx",มังกร​ ทีวี
+https://www.livedoomovies.com/02_MANGORN_720p/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="xxxxxx",M​ CHANNEL
+http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8 
+#EXTINF:-1 tvg-logo="xxxxxx",CHANNEL​ 8
+https://cdn-th.login.in.th/ch8/ch8/playlist.m3u8 
+#EXTINF:-1 tvg-logo="xxxxxx",CTB​ THAI
+http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="xxxxxx",BOX​ FILM
+https://cdn6.goprimetime.info/feed/LC52/index.m3u8 
+#EXTINF:-1 tvg-logo="xxxxxx",SUN
+https://cdn6.goprimetime.info/feed/LC1/index.m3u8 
+#EXTINF:-1 tvg-logo="xxxxxx",SAMURAI
+https://cdn6.goprimetime.info/feed/LC2/index.m3u8
+#EXTINF:-1 tvg-logo="xxxxxx",CHANNEL​ 8
+https://cdn6.goprimetime.info/feed/LC3/index.m3u8
+#EXTINF:-1 tvg-logo="xxxxxx",TVN
+https://laos-tech-live.b-cdn.net/hd-tvn_480/index.m3u8
+#EXTINF:-1 tvg-logo="xxxxxx",Comedy Central
+https://laos-tech-live.b-cdn.net/hd-comedycentral_720/index.m3u8
+#EXTINF:-1 tvg-logo="xxxxxx",Film HD
+https://laos-tech-live.b-cdn.net/hd-tfilm_720/index.m3u8
+#EXTINF:-1 tvg-logo="xxxxxx",Film HD 2
+https://laos-tech-live.b-cdn.net/hd-tfilm2_720/index.m3u8
+#EXTINF:-1 tvg-logo="xxxxxx",TVB
+http://ip2121.com:8081/live/TVB/chunks.m3u8
+#EXTINF:-1 tvg-logo="xxxxxx",FOX​ THAI
+https://laos-tech-live.b-cdn.net/sd-fox_720/index.m3u8
+#EXTINF:-1 tvg-logo="xxxxxx",Fox Family Movies
+https://laos-tech-live.b-cdn.net/hd-foxfamily_720/index.m3u8
+#EXTINF:-1 tvg-logo="xxxxxx",Fox Movies Premium (TH)
+https://laos-tech-live.b-cdn.net/hd-foxpremium_720/index.m3u8
+#EXTINF:-1 tvg-logo="xxxxxx",AXN HD
+https://laos-tech-live.b-cdn.net/hd-axn_720/index.m3u8
+#EXTINF:-1 tvg-logo="xxxxxx",Warner TV (HD)
+https://cdn6.goprimetime.info/feed/LC28/playlist.m3u8
+#EXTINF:-1 tvg-logo="xxxxxx",THAI​ FILM
+https://laos-tech-live.b-cdn.net/sd-thaifilm_480/index.m3u8
+#EXTINF:-1 tvg-logo="xxxxxx",X-Zyte HD
+https://laos-tech-live.b-cdn.net/hd-xzyte_720/index.m3u8
+#EXTINF:-1 tvg-logo="xxxxxx",CCM
+https://laos-tech-live.b-cdn.net/sd-celestial_480/index.m3u8
+#EXTINF:-1 tvg-logo="xxxxxx",Lotus Macau TV
+https://cdn6.goprimetime.info/feed/LC41/playlist.m3u8
