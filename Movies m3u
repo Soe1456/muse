@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="xxxxxx",TVB THAI
+#EXTINF:-1 tvg-logo="xhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnoLqTNk-IKATFP-KW_lbDywEKZbUaiIJJpg&usqp=CAU",TVB THAI
 https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8 
 #EXTINF:-1 tvg-logo="xxxxxx",มังกร​ ทีวี
 https://www.livedoomovies.com/02_MANGORN_720p/chunklist.m3u8 
