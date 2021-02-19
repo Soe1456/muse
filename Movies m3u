@@ -46,3 +46,56 @@ https://laos-tech-live.b-cdn.net/hd-xzyte_720/index.m3u8
 https://laos-tech-live.b-cdn.net/sd-celestial_480/index.m3u8
 #EXTINF:-1 tvg-logo="xxxxxx",Lotus Macau TV
 https://cdn6.goprimetime.info/feed/LC41/playlist.m3u8
+#EXTINF:-1,FOX HD
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,FOX FAMILY HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/chunks.m3u8
+#EXTINF:-1,HBO
+http://136.243.177.164/HBO/playlist.m3u8
+#EXTINF:-1,HBO2
+http://136.243.177.164/HBO2/playlist.m3u8
+#EXTINF:-1 ,HBO3
+http://136.243.177.164/HBO3/playlist.m3u8
+#EXTINF:-1 ,CINEMAX
+http://136.243.177.164/CINEMAX/playlist.m3u8
+#EXTINF:-1 ,HBO india
+http://ctgiptv.kitv.live:1935/live/test/test1/45.m3u8
+#EXTINF:-1,RedHBO
+http://fdtvapps.xyz/channel/red.m3u8
+#EXTINF:-1 ,FOX LIFE
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,Hbo
+http://me.zichannels.my.id/ch/hbo.m3u8
+#EXTINF:-1 ,HboFamily
+http://me.zichannels.my.id/ch/family.m3u8
+#EXTINF:-1,HboSignature
+http://me.zichannels.my.id/ch/sighd.m3u8
+#EXTINF:-1,HboHits
+http://me.zichannels.my.id/ch/hits.m3u8
+#EXTINF:-1,HboRed
+http://me.zichannels.my.id/ch/red.m3u8
+#EXTINF:-1 ,Cinemaxx
+http://me.zichannels.my.id/ch/max.m3u8
+
+#EXTINF:-1 ,Okey
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
+#EXTINF:-1 ,Tv1
+http://58.26.3.54/PLTV/88888888/224/3221226228/02.m3u8
+#EXTINF:-1,Tv3
+http://ts.lemmovie.com/55a7edc5-112d-47ce-92bd-d242cf580f46.m3u8
+#EXTINF:-1,TV9
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
+#EXTINF:-1,AEC
+http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
+#EXTINF:-1,Warna
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+#EXTINF:-1,Cinemax
+http://fdtvapps.xyz/channel/cinemax.m3u8
+#EXTINF:-1,TLC
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,FZTV
+http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+#EXTINF:-1,SbsPlus
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+#EXTINF:-1 ,NHK
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
