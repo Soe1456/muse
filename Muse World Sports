@@ -221,6 +221,581 @@
 "referer": "https://www.doofree88.com/",
 "playInNatPlayer": "true"
 },
+
+
+{
+"name": "FC BAYERN.TV",  
+"image": "https://fcbayern.com/fcb/assets/favicon/mstile-310x310.png",  
+"url": "https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/master.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Galatasaray TV",  
+"image": "https://i.sozcu.com.tr/wp-content/uploads/2018/08/iecrop/gs-tv_16_9_1533298622-880x495.jpg",  
+"url": "https://galatasaray.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Realmadrid TV",  
+"image": "https://www.realmadrid.com/img/horizontal_940px/logotipo_rmtv_940x400thumb_h_20200128014053.jpg",  
+"url": "https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8",
+"playInNatPlayer": "true"
+},
+
+
+
+{
+"name": "beIN Sports Extra",  
+"image": "https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png",  
+"url": "https://bein-plutolive-vo.akamaized.net/playlist.m3u8",
+"referer": "http://photocall.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN Sports HD1 FR",  
+"image": "https://overseer.blackboxsys.net/images/png/fr-bein1hd.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-bein1hd&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN Sports HD2 FR",  
+"image": "https://overseer.blackboxsys.net/images/png/fr-bein2hd.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-bein2hd&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN Sports HD3 FR",  
+"image": "https://overseer.blackboxsys.net/images/png/fr-bein3hd.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-bein3hd&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN Sports MAX4 FR",  
+"image": "https://overseer.blackboxsys.net/images/png/fr-beinsportmax4.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-beinsportmax4&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN Sports MAX5 FR",  
+"image": "https://overseer.blackboxsys.net/images/png/fr-beinsportmax5.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-beinsportmax5&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN Sports MAX6 FR",  
+"image": "https://overseer.blackboxsys.net/images/png/fr-beinsportmax6.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-beinsportmax6&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN Sports MAX7 FR",  
+"image": "https://overseer.blackboxsys.net/images/png/fr-beinsportmax7.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-beinsportmax7&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+
+
+{
+"name": "beIN Sports News",  
+"image": "https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/News-1.png",  
+"url": "https://youtu.be/0Y-IRcUJi6o",
+"referer": "https://www.youtube.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Bein Sports 1 AR",  
+"image": "http://runnel.ir/ax/logo/beIN1-Small.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein1&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bein Sports 2 AR",  
+"image": "http://runnel.ir/ax/logo/beIN2-Small.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein2&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bein Sports 3 AR",  
+"image": "http://runnel.ir/ax/logo/beIN3-Small.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein3&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bein Sports 4 AR",  
+"image": "http://runnel.ir/ax/logo/beIN4-Small.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein4&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bein Sports 5 AR",  
+"image": "http://runnel.ir/ax/logo/beIN5-Small.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein5&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bein Sports 6 AR",  
+"image": "http://runnel.ir/ax/logo/beIN6-Small.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein6&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bein Sports 7 AR",  
+"image": "http://runnel.ir/ax/logo/beIN7-Small.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein7&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bein Sports 8 AR",  
+"image": "http://runnel.ir/ax/logo/beIN8-Small.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein8&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bein Sports 9 AR",  
+"image": "http://runnel.ir/ax/logo/beIN9-Small.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein9&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bein Sports 10 AR",  
+"image": "http://runnel.ir/ax/logo/beIN10-Small.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein10&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bein Sports 11 AR",  
+"image": "http://runnel.ir/ax/logo/beIN11-Small.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein11&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bein Sports 12 AR",  
+"image": "http://runnel.ir/ax/logo/beIN12-Small.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein12&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sportnet 1 CA",  
+"image": "https://overseer.blackboxsys.net/images/png/ca-sportsnet1.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-sportsnet1&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sportnet 360 CA",  
+"image": "https://overseer.blackboxsys.net/images/png/ca-sportsnet360.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-sportsnet360&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sportnet World CA",  
+"image": "https://overseer.blackboxsys.net/images/png/ca-sportsnetworld.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-sportsnetworld&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TSN 1 CA",  
+"image": "https://overseer.blackboxsys.net/images/png/ca-tsn1.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn1&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TSN 2 CA",  
+"image": "https://overseer.blackboxsys.net/images/png/ca-tsn2.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn2&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TSN 3 CA",  
+"image": "https://overseer.blackboxsys.net/images/png/ca-tsn3.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn3&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TSN 4 CA",  
+"image": "https://overseer.blackboxsys.net/images/png/ca-tsn4.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn4&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TSN 5 CA",  
+"image": "https://overseer.blackboxsys.net/images/png/ca-tsn5.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn5&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+
+
+{
+"name": "TENNIS CHANNEL",  
+"image": "https://www.rbr.com/wp-content/uploads/Tennis_Channel.jpg",  
+"url": "http://yoursports.stream/ing/tennis",
+"referer": "http://yoursports.stream/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "TENNIS THE T",  
+"image": "https://www.rbr.com/wp-content/uploads/Tennis_Channel.jpg",  
+"url": "https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "TENNIS PLUS 1",  
+"image": "https://tennischannel.com/resources/assets/tennischanneleverywhere/images/logos/tcplus-logo-1x-01.png",  
+"url": "https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Fox Sports 1 USA",  
+"image": "http://runnel.ir/ax/logo/FS1.png",  
+"url": "http://yoursports.stream/ing/fs1",
+"referer": "http://yoursports.stream/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "Fox Sports 2 USA",  
+"image": "http://runnel.ir/ax/logo/FS2.png",  
+"url": "http://yoursports.stream/ing/fs2",
+"referer": "http://yoursports.stream/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "Fox Sports Deportes",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/640px-FOX_Deportes_logo.svg.png",  
+"url": "http://yoursports.stream/ing/fsdeportes",
+"referer": "http://yoursports.stream/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "ESPN USA",  
+"image": "https://prolive.tv/assets/uploads/channel-8.png",  
+"url": "http://yoursports.stream/ing/espn",
+"referer": "http://yoursports.stream/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "ESPN2 USA",  
+"image": "https://prolive.tv/assets/uploads/channel-11.png",  
+"url": "http://yoursports.stream/ing/espn2",
+"referer": "http://yoursports.stream/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "WWE USA",
+"image": "https://overseer.blackboxsys.net/images/png/us-wwe.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=us-wwe&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST Free Sport UK",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--817.png",  
+"url": "https://www.doofootball.com/live/streaming/freesportuk/619214",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "TEST Fox Sports 2 USA",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--61.png",  
+"url": "https://www.doofootball.com/live/streaming/foxsports2usa/646669",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST Fox Sports 1 NL",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--241.png",  
+"url": "https://www.doofootball.com/live/streaming/foxsport1nl/607808",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST Fox Sports 2 NL",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--242.png",  
+"url": "https://www.doofootball.com/live/streaming/foxsport2nl/607807",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST Fox Sports 3 NL",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--243.png",  
+"url": "https://www.doofootball.com/live/streaming/foxsport3nl/607809",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST Fox Sports 4 NL",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--244.png",  
+"url": "https://www.doofootball.com/live/streaming/foxsport4nl/604922",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST Arena Sports 1",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--319.png",  
+"url": "https://www.doofootball.com/live/streaming/arenasport1serbia/645241",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST Arena Sports 2",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--320.png",  
+"url": "https://www.doofootball.com/live/streaming/arenasport2serbia/635293",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST Arena Sports 3",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--321.png",  
+"url": "https://www.doofootball.com/live/streaming/arenasport3serbia/591479",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST Arena Sports 4",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--322.png",  
+"url": "https://www.doofootball.com/live/streaming/arenasport4serbia/543383",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST Ziggo Sport Select",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--285.png",  
+"url": "https://www.doofootball.com/live/streaming/ziggosportselect/617813",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST Ziggo Sport Voetbal",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--286.png",  
+"url": "https://www.doofootball.com/live/streaming/ziggosportvoetbal/601776",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST Digi Sport 1",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--880.png",  
+"url": "https://www.doofootball.com/live/streaming/digisport1romania/591476",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST Digi Sport 2",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--881.png",  
+"url": "https://www.doofootball.com/live/streaming/digisport2romania/604923",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST Digi Sport 3",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--882.png",  
+"url": "https://www.doofootball.com/live/streaming/digisport3romania/617255",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST Digi Sport 4",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--883.png",  
+"url": "https://www.doofootball.com/live/streaming/digisport4romania/607795",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST Eleven Sports 1",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1500.png",  
+"url": "https://www.doofootball.com/live/streaming/elevensports1pt/601776",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST Canal 11",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1787.png",  
+"url": "https://www.doofootball.com/live/streaming/canal11pt/634551",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST C MORE FOTBOLL",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--482.png",  
+"url": "https://www.doofootball.com/live/streaming/cmorefootball/617262",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST Premier Sport 1",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--95.png",  
+"url": "https://www.doofootball.com/live/streaming/premiersports1/610844",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST Sport Digital",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--167.png",  
+"url": "https://www.doofootball.com/live/streaming/sportdigital/610844",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST Telekom Sport 1",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--884.png",  
+"url": "https://www.doofootball.com/live/streaming/telekomsport1ro/594683",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST TV3 Sport 1",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--440.png",  
+"url": "https://www.doofootball.com/live/streaming/tv3sport1/625916",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST NOVA Sport",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1058.png",  
+"url": "https://www.doofootball.com/live/streaming/novasport/625916",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST VIASAT FOTBOLL ",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--494.png",  
+"url": "https://www.doofootball.com/live/streaming/viasatfotboll/607846",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST Sky Sport Premiere League",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--90.png",  
+"url": "https://www.doofootball.com/live/streaming/skysportpremiere/620285",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST Sky Sport Football",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--91.png",  
+"url": "https://www.doofootball.com/live/streaming/skysportfootball/625916",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST Sky Sport Main Event",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--663.png",  
+"url": "https://www.doofootball.com/live/streaming/skysportmainevent/625916",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST BT Sport 1",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--97.png",  
+"url": "https://www.doofootball.com/live/streaming/btsport1/617813",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST BT Sport 2",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--100.png",  
+"url": "https://www.doofootball.com/live/streaming/btsport2/643613",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST BT Sport 3",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--108.png",  
+"url": "https://www.doofootball.com/live/streaming/btsport3/607791",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST BT Sport ESPN",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--98.png",  
+"url": "https://www.doofootball.com/live/streaming/btsportespn/618030",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST Bein Sports 1 TU",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--640.png",  
+"url": "https://www.doofootball.com/live/streaming/beinsports1tu/623678",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST Bein Sports 2 TU",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--641.png",  
+"url": "https://www.doofootball.com/live/streaming/beinsports2tu/623669",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST Bein Sports 1 FR",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--400.png",  
+"url": "https://www.doofootball.com/live/streaming/beinsport1fr/616713",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST Bein Sports 2 FR",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--401.png",  
+"url": "https://www.doofootball.com/live/streaming/beinsport2fr/607796",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST Bein Sports MAX 4 FR",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--403.png",  
+"url": "https://www.doofootball.com/live/streaming/beinmax4fr/607799",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST Bein Sports MAX 5 FR",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--404.png",  
+"url": "https://www.doofootball.com/live/streaming/beinmax5fr/607792",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TEST Bein Sports MAX 6 FR",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--405.png",  
+"url": "https://www.doofootball.com/live/streaming/beinmax6fr/623671",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
 {
 "name": "Eurosport 2 สำรอง 2",  
 "image": "http://runnel.ir/ax/logo/Eurosport-UK-2-Logo.png",  
