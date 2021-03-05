@@ -5,3 +5,232 @@
 "url": "http://tiny.cc/museworldsport",
 "info": "", "stations": 
 [ 
+{
+"name": "17 February 2021",  
+"image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
+"url": "https://androidtvtech.blogspot.com/",
+"playInNatPlayer": "true"
+},
+
+
+{
+"name": "Sky Sports Premiere League",  
+"image": "http://runnel.ir/ax/logo/sky-sports-premier-league.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-epl&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Premiere League สำรอง",  
+"image": "http://runnel.ir/ax/logo/sky-sports-premier-league.jpg",  
+"url": "https://ball8k.com/m/ch.php?stream=skysportpremiere",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports Main Event",  
+"image": "http://runnel.ir/ax/logo/sky-sports-main-event.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-mainevent&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Main Event สำรอง",  
+"image": "http://runnel.ir/ax/logo/sky-sports-main-event.jpg",  
+"url": "https://ball8k.com/m/ch.php?stream=skysportmainevent",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports Football",  
+"image": "http://runnel.ir/ax/logo/sky-sports-football.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-football&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Football สำรอง",  
+"image": "http://runnel.ir/ax/logo/sky-sports-football.jpg",  
+"url": "https://ball8k.com/m/ch.php?stream=skysportfootball",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports Action",  
+"image": "http://runnel.ir/ax/logo/sky-sports-action.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-action&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Action สำรอง",  
+"image": "http://runnel.ir/ax/logo/sky-sports-action.jpg",  
+"url": "https://ball8k.com/m/ch.php?stream=skysportaction",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports Arena",  
+"image": "http://runnel.ir/ax/logo/sky-sports-arena.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-arena&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports Cricket",  
+"image": "http://runnel.ir/ax/logo/sky-sports-cricket.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-cricket&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Cricket สำรอง",  
+"image": "http://runnel.ir/ax/logo/sky-sports-cricket.jpg",  
+"url": "https://ball8k.com/m/ch.php?stream=skysportclicket",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports F1",  
+"image": "http://runnel.ir/ax/logo/sky-sports-f1.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-f1&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports Golf",  
+"image": "http://runnel.ir/ax/logo/sky-sports-golf.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-golf&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Golf สำรอง",  
+"image": "http://runnel.ir/ax/logo/sky-sports-golf.jpg",  
+"url": "https://ball8k.com/m/ch.php?stream=skysportgolf",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports Mix",  
+"image": "http://runnel.ir/ax/logo/sky-sports-mix.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-mix&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Mix สำรอง",  
+"image": "http://runnel.ir/ax/logo/sky-sports-mix.jpg",  
+"url": "https://ball8k.com/m/ch.php?stream=skysportmix",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports News",  
+"image": "http://runnel.ir/ax/logo/sky-sports-news.jpg",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-news&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports News DE",  
+"image": "http://runnel.ir/ax/logo/sky-sports-news.jpg",  
+"url": "http://mail.ebert.in/webapps/joshdick-miniProxy/miniProxy.php/https://websitefreestreaming.akamaized.net/11111_ssnweb/index.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports News IT",  
+"image": "http://runnel.ir/ax/logo/sky-sports-news.jpg",  
+"url": "https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sport Bundesliga",  
+"image": "https://overseer.blackboxsys.net/images/png/de-skybundesliga.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=de-skybundesliga&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports 1 DE",  
+"image": "https://overseer.blackboxsys.net/images/png/de-skysport1.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=de-skysport1&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Sports 2 DE",  
+"image": "https://overseer.blackboxsys.net/images/png/de-skysport2.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=de-skysport2&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "BT SPORTS 1",  
+"image": "http://runnel.ir/ax/logo/BT_Sport_1_Small.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport1hd&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "BT SPORTS 2",  
+"image": "http://runnel.ir/ax/logo/BT_Sport_2_Small.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport2hd&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "BT SPORTS 3",  
+"image": "http://runnel.ir/ax/logo/BT_Sport_3_Small.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport3hd&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Eurosport 1",  
+"image": "http://runnel.ir/ax/logo/Eurosport-UK-1-Logo.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-eurosport&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Eurosport 1 สำรอง 1",  
+"image": "http://runnel.ir/ax/logo/Eurosport-UK-1-Logo.png",  
+"url": "https://www.doofree88.com/live/eurosport",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Eurosport 1 สำรอง 2",  
+"image": "http://runnel.ir/ax/logo/Eurosport-UK-1-Logo.png",  
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=231",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Eurosport 2",  
+"image": "http://runnel.ir/ax/logo/Eurosport-UK-2-Logo.png",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-eurosport2&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Eurosport 2 สำรอง 1",  
+"image": "http://runnel.ir/ax/logo/Eurosport-UK-2-Logo.png",  
+"url": "https://www.doofree88.com/live/eurosport-2",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Eurosport 2 สำรอง 2",  
+"image": "http://runnel.ir/ax/logo/Eurosport-UK-2-Logo.png",  
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=232",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+
+}]
+
+},	
+]
+}
