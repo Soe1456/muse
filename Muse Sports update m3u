@@ -1,4 +1,7 @@
 #EXTM3U8
+
+#====================="Digital-TV"=========================#
+
 #EXTINF:-1 ,CH3
 http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8
 #EXTINF:-1 ,CH5
@@ -175,6 +178,11 @@ https://cdn6.goprimetime.info/feed/LC36/index.m3u8
 http://61.19.242.134/feed/LC36/index.m3u8
 #EXTINF:-1 ,Outdoor Channel HD
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+
+
+#=====================""=========================#
+
+
 #EXTINF:-1 ,Sabaidee TV
 http://stream.rs.co.th/sbd-hi/index.m3u8
 #EXTINF:-1 ,VoiceTV
@@ -239,6 +247,10 @@ https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 #EXTINF:-1 ,F.tv
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
+#====================="Movies"=========================#
+
+
 #EXTINF:-1 ,TV CABLE 4
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 #EXTINF:-1 ,TV CABLE 5
@@ -313,6 +325,9 @@ http://170.178.189.66:1935/live/Stream1/chunklist_w1292014337.m3u8
 https://cdn6.goprimetime.info/feed/LC41/index.m3u8
 #EXTINF:-1 ,Kix
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+
+#====================="News"=========================#
+
 #EXTINF:-1 ,ALJAZEERA
 https://cdn6.goprimetime.info/feed/chaljazaara/index.m3u8
 #EXTINF:-1 ,ALJAZEERA
@@ -363,6 +378,9 @@ http://sonlife10-i.akamaihd.net/hls/live/585013/ch10/master.m3u8
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 ,BLOOMBERG ASIA
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+
+#====================="Documentary"=========================#
+
 #EXTINF:-1 ,The Outdoor
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8
 #EXTINF:-1 ,OUTDOOR(JP)
@@ -383,6 +401,9 @@ https://cdn6.goprimetime.info/feed/LC32/index.m3u8
 https://cdn6.goprimetime.info/feed/LC37/index.m3u8
 #EXTINF:-1 ,PSI SARADEE(#EXTVLCOPT:network-caching=1000
 http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
+
+#====================="Kids"=========================#
+
 #EXTINF:-1 ,Boomerang
 https://cdn6.goprimetime.info/feed/chboomberang/index.m3u8
 #EXTINF:-1 ,Boomerang
@@ -395,6 +416,9 @@ http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/m
 http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
 #EXTINF:-1 ,Lale
 http://stream.atr.ua/lale//live/index.m3u8
+
+#====================="China"=========================#
+
 #EXTINF:-1 ,CCTV 1
 http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 ,CCTV 2
@@ -499,6 +523,9 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225670/index.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225671/index.m3u8
 #EXTINF:-1 ,NEW TV 10
 http://39.135.138.60:18890/PLTV/88888910/224/3221225678/index.m3u8
+
+#=====================""=========================#
+
 #EXTINF:-1 ,PCL GAME
 http://39.135.138.60:18890/PLTV/88888910/224/3221225653/index.m3u8
 #EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
