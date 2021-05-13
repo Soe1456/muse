@@ -8,7 +8,7 @@
 
 {
         "name": "Importar-muse-mix-tv",
-        "image": "gifs.com/gif/android-6-0-marshmallow-boot-animation-vO0xEx",
+        "image": "https://j.gifs.com/vO0xEx.gif",
         "groups":[
         
         
@@ -25,18 +25,68 @@
 
 		
 {
-			"name": "mix-tv",
+			"name": "Live-Match",
 			"image": "https://image.shutterstock.com/z/stock-vector-vector-live-stream-live-icon-flat-style-with-play-button-isolated-on-transparent-background-for-1357596650.jpg",
 			"stations":[
 {
-"name": "True Premier HD 1-1",  
-"image": "https://www.img01.xyz/assets/img/ch_logo/doomovie-epl1.png",  
-"url": "https://www.chomfootball.com/livechannel/epl-1/4073",
-"referer": "https://www.chomfootball.com/",
+"name": "https://image.shutterstock.com/z/stock-vector-soccer-football-field-on-screen-of-smart-phone-and-ball-with-spotlight-and-abstract-glitter-light-710279641.jpg",  
+"image": "",  
+"url": "",
+"referer": "",
 "playInNatPlayer": "true"
 },        
-        
-        
+{
+"name": "https://image.shutterstock.com/z/stock-photo-london-england-october-fc-real-madrid-logo-on-glossy-button-isolated-on-white-1014183937.jpg",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},              
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},              
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},          
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},          
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},              
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},          
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},          
+
+
+
         
         
         
