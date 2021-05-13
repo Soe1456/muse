@@ -43,6 +43,27 @@
 "playInNatPlayer": "true"
 },              
 {
+"name": "Italian Serie A",  
+"image": "https://i2.wp.com/twofoottalk.com/wp-content/uploads/2018/10/logo-serie-a.gif?resize=200%2C200&ssl=1",  
+"url": "",
+"referer": "",
+"playInNatPlayer": "true"
+},              
+{
+"name": "premier league",  
+"image": "http://www.zikoko.com/wp-content/uploads/zikoko/2018/08/premier-league.gif",  
+"url": "https://www.unacanita.com/canal/49",
+"referer": "",
+"playInNatPlayer": "true"
+},          
+{
+"name": "Spain Laliga",  
+"image": "https://4.bp.blogspot.com/-1LVHjepJLjk/WfVdYb2cZYI/AAAAAAAAAD8/YZSEZaYRhlUdS4gPbu5eUgypSFjwRcGnwCLcBGAs/s1600/la-liga.gif",  
+"url": "https://www.unacanita.com/canal/16",
+"referer": "",
+"playInNatPlayer": "true"
+},          
+{
 "name": "",  
 "image": "",  
 "url": "",
@@ -83,8 +104,7 @@
 "url": "",
 "referer": "",
 "playInNatPlayer": "true"
-},          
-
+},       
 
 
         
