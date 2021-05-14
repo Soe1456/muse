@@ -25,7 +25,7 @@
 
 {"name": "musetvfree",
 	"image": "https://media0.giphy.com/media/3o7WIKBSdsc0vsWScM/giphy.gif",
-	"url": "https://v7.sportzonline.to/247.txt",
+	"url": "",
 	"import": false},
 
 
@@ -43,9 +43,17 @@
 			
 			
 {"name": "Iptv 1",
-"image": "https://microsites.bournemouth.ac.uk/cippm/files/2018/12/IPTV.jpg",
-"url": "","userAgent":"","isHost": true},			
-			
+"image": "https://steamuserimages-a.akamaihd.net/ugc/960838928918232348/CE0E0935ABF7FDC0948EF877D7A647ABADE17CDB/",
+"url": "https://sportzonline.to/prog.txt","userAgent":"muse","isHost": true},			
+
+{"name": "Iptv 1",
+"image": "https://i.pinimg.com/originals/a1/52/73/a15273002ca17a35b3f58e0472d31061.gif",
+"url": "https://www.globoesporte.online/prog.txt","userAgent":"muse","isHost": true},
+
+{"name": "Iptv 1",
+"image": "https://i.pinimg.com/originals/50/33/ff/5033ffde9c1d4851fe54aa080b2c4a0e.gif",
+"url": "","userAgent":"","isHost": true},
+
 {
 "name": "",  
 "image": "https://image.shutterstock.com/z/stock-vector-soccer-football-field-on-screen-of-smart-phone-and-ball-with-spotlight-and-abstract-glitter-light-710279641.jpg",  
