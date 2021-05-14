@@ -40,6 +40,12 @@
 			"name": "Live-Match",
 			"image": "https://image.shutterstock.com/z/stock-vector-vector-live-stream-live-icon-flat-style-with-play-button-isolated-on-transparent-background-for-1357596650.jpg",
 			"stations":[
+			
+			
+{"name": "Iptv 1",
+"image": "https://microsites.bournemouth.ac.uk/cippm/files/2018/12/IPTV.jpg",
+"url": "https://v7.sportzonline.to/247.m3u8","userAgent":"cp_525","isHost": true},			
+			
 {
 "name": "",  
 "image": "https://image.shutterstock.com/z/stock-vector-soccer-football-field-on-screen-of-smart-phone-and-ball-with-spotlight-and-abstract-glitter-light-710279641.jpg",  
