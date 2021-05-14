@@ -44,7 +44,7 @@
 			
 {"name": "Iptv 1",
 "image": "https://microsites.bournemouth.ac.uk/cippm/files/2018/12/IPTV.jpg",
-"url": "https://v7.sportzonline.to/247.txt.#m3u","userAgent":"cp_525","isHost": true},			
+"url": "","userAgent":"","isHost": true},			
 			
 {
 "name": "",  
@@ -84,7 +84,7 @@
 {
 "name": "Programacion",  
 "image": "https://media0.giphy.com/media/3o7WIKBSdsc0vsWScM/giphy.gif",  
-"url": "https://sportzonline.to/prog.txt.m3u#.m3u",
+"url": "",
 "referer": "",
 "playInNatPlayer": "true"
 },              
