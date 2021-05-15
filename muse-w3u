@@ -117,19 +117,6 @@
 },
 
 
-]
-},
-
-{
-        "name": "Importar-muse-inter-sport",
-        "image": "https://static.cognitoforms.com/content/support/assets/images/importing-icon-2e04b13d-9581-45e8-9fd8-9877c61e6aec-1c3c579-509x236.gif",
-        "groups":[
-
-{
-			"name": "inter-sport",
-			"image": "https://media4.giphy.com/media/JO4EtX2tJvqrWKtBOi/giphy.gif?cid=6c09b952214e7bb0fdce95e606b41d92021b3c95df2c3e3a&rid=giphy.gif&ct=s",
-			"stations":[
-
 
 {
 "name": "",
@@ -479,17 +466,6 @@
 "url": "https://gma2.blab.email/espn2.m3u8",
 "playInNatPlayer": "true"
 },
-
-
-
-]
-},
-
-
-{
-			"name": "Digital tv",
-			"image": "https://getvectorlogo.com/wp-content/uploads/2020/08/digital-tv-europe-vector-logo.png",
-			"stations":[
 
 
 {
