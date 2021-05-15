@@ -115,7 +115,16 @@
 "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-5&api_key=hmcb4rf66f",
 "referer": "https://dooball66.com/"
 },
-
+{
+"name": " MONO29",
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/mono29.png",
+#"url": "https://cdn6.goprimetime.info/feed/chmono29/index.m3u8",
+"url": "https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8",
+"userAgent": "exoplayer_video",
+#"referer": "https://cdn6.goprimetime.info/",
+#"playInNatPlayer": "false"
+"embed": "true"
+},
 
 
 
