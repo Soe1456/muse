@@ -469,10 +469,239 @@
 "playInNatPlayer": "true"
 },
 
+
+
 ]
 }
 
 
+{
+			"name": "inter-sport",
+			"image": "https://media4.giphy.com/media/JO4EtX2tJvqrWKtBOi/giphy.gif?cid=6c09b952214e7bb0fdce95e606b41d92021b3c95df2c3e3a&rid=giphy.gif&ct=s",
+			"stations":[
+
+
+{
+"name": " MONO29",
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/mono29.png",
+#"url": "https://cdn6.goprimetime.info/feed/chmono29/index.m3u8",
+"url": "https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8",
+"userAgent": "exoplayer_video",
+#"referer": "https://cdn6.goprimetime.info/",
+#"playInNatPlayer": "false"
+"embed": "true"
+},
+*/
+
+{
+"name": " MONO29",
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/mono29.png",
+"url": "https://cdn6.goprimetime.info/feed/chmono29/index.m3u8",
+"userAgent": "Mozilla/5.0"
+},
+{
+"name": " MONO29",
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/mono29.png",
+#"url": "https://cdn6.goprimetime.info/feed/chmono29/index.m3u8",
+#"url": "https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8"
+"url": "https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8"
+#"userAgent": "exoplayer_video"
+},
+
+{
+"name": "Voice TV Guchill exo", 
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/voice.png",
+"url": "https://tv.guchill.com/Voice-TV-Live.html?l=1",
+"referer": "https://tv.guchill.com/",
+"userAgent": "exoplayer_video"
+#"playInNatPlayer": "false"
+},
+{
+"name": "Voice TV Guchill moz", 
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/voice.png",
+"url": "https://tv.guchill.com/Voice-TV-Live.html?l=1",
+"referer": "https://tv.guchill.com/",
+"userAgent": "Mozilla/5.0"
+#"playInNatPlayer": "false"
+},
+{
+"name": "Voice TV Guchill foo", 
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/voice.png",
+"url": "https://tv.guchill.com/Voice-TV-Live.html?l=1",
+"referer": "https://tv.guchill.com/",
+"userAgent": "Foobot/1.2.3"
+#"playInNatPlayer": "false"
+},
+
+{
+"name": "Voice V2H9",
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/voice.png",
+"url": "https://www.mvtv.co.th/channel/v2h9",
+"referer": "https://www.mvtv.co.th/",
+"userAgent": "exoplayer_video"
+#"playInNatPlayer": "true"
+},
+
+/*
+{
+"name": "  Voice TV Twitch",
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/voice.png",
+#"url": "https://player.twitch.tv/?channel=voicetv&parent=www.voicetv.co.th&parent=voicetv.co.th",             
+"url": "https://player.twitch.tv/?channel=voicetv&parent=www.voicetv.co.th",
+"referer": "https://player.twitch.tv/",
+"userAgent": "exoplayer_video"
+#"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+#"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null exoplayer_video"
+#"playInNatPlayer": "true"
+},
+*/
+
+{
+"name": "  TV 5 HD",  
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/ch5.png",
+"url": "https://cdn6.goprimetime.info/feed/ch5hd/index.m3u8",
+#"userAgent": "exoplayer_video"
+"userAgent": "Mozilla/5.0"
+},
+{
+"name": "       NBT",  
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/nbt.png",  
+"url": "https://cdn6.goprimetime.info/feed/chnbt/index.m3u8",
+"userAgent": "Mozilla/5.0"
+},
+{
+"name": "     TPBS",
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/tpbs3.png",
+"url": "https://cdn6.goprimetime.info/feed/chthaipbs/index.m3u8",
+"userAgent": "Mozilla/5.0"
+},
+{
+"name": "    TPTV",
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/tptv.png",
+"url": "http://49.231.66.85:1935/live/tptv/playlist.m3u8",
+"playInNatPlayer": "true",
+"userAgent": "Mozilla/5.0"
+#"embed": "true"
+},
+{
+"name": "   TNN 16",
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/tnn16.png",
+"url": "https://cdn6.goprimetime.info/feed/chtnn/index.m3u8",
+"userAgent": "Mozilla/5.0"
+},
+{
+"name": "  NEW 18",
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/new18.png",
+"url": "https://cdn6.goprimetime.info/feed/newtv/index.m3u8",
+"userAgent": "Mozilla/5.0"
+},
+{
+"name": "Nation TV",
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/nation22.png",
+"url": "https://cdn6.goprimetime.info/feed/chnation/index.m3u8",
+"userAgent": "Mozilla/5.0"
+},
+{
+"name": "Workpoint",
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/workpoint.png",
+"url": "https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8",
+"userAgent": "Mozilla/5.0"
+},
+{
+"name": "   True4u",
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/true4u.png",
+#"url": "https://true4u.com/live/",
+#"url": "https://www.we-play.tv/watching/tv/true4u"
+"url": "https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8", "userAgent": "Mozilla/5.0"
+},
+{
+"name": "  GMM25",
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/gmm.png",
+"url": "https://cdn6.goprimetime.info/feed/chgmm/index.m3u8",
+"userAgent": "Mozilla/5.0"
+},
+{
+"name": "      CH8",
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/ch8.png",
+"url": "https://cdn6.goprimetime.info/feed/ch8/index.m3u8",
+"userAgent": "Mozilla/5.0"
+},
+{
+"name": "  Mcot HD",
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/mcot.png",
+"url": "https://cdn6.goprimetime.info/feed/chmcothd/index.m3u8",
+"userAgent": "Mozilla/5.0"
+},
+{
+"name": " One31 HD",
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/one.png",
+"url": "https://cdn6.goprimetime.info/feed/chonehd/index.m3u8",
+"userAgent": "Mozilla/5.0"
+},
+{
+"name": "Thairath HD",
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/thairat.png",
+"url": "https://cdn6.goprimetime.info/feed/chthairath/index.m3u8",
+"userAgent": "Mozilla/5.0"
+},
+{
+"name": "   TV 3 HD",
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/ch3.png",
+"url": "https://cdn6.goprimetime.info/feed/ch3hd/index.m3u8",
+"userAgent": "Mozilla/5.0"
+},
+{
+"name": "Amarin TV",
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/amarin.png",
+"url": "https://cdn6.goprimetime.info/feed/chamarin/index.m3u8",
+"userAgent": "Mozilla/5.0"
+},
+{
+"name": "   TV 7 HD",
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/ch7.png",
+"url": "https://cdn6.goprimetime.info/feed/ch7hd/index.m3u8",
+"userAgent": "Mozilla/5.0"
+},
+{
+"name": "  PPTV HD",
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/pptv.png",
+"url": "https://cdn6.goprimetime.info/feed/chpptvhd/index.m3u8",
+"userAgent": "Mozilla/5.0"
+},
+{
+"name": "  NEWS 1",
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/news1.png",              
+"url": "https://server1.streamssl.com/stream/news1_hi.m3u8",
+"referer": "https://news1live.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+{
+"name": "ALTV by Thaipbs",  
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/altv4.png",  
+"url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8"
+},
+{
+"name": " TOP News",  
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/topnews.png",  
+"url": "https://live.topnews.co.th/hls/topnews.m3u8"
+},
+
+/* Backup 
+{
+"name": "News1",
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/news1.png",              
+"url": "http://news1.live14.com/stream/news1_hi.m3u8",
+"referer": "http://news1.live14.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+
+{
+"name": "Voice TV", 
+"image": "https://www.matichon.co.th/wp-content/uploads/2016/02/------------------------------------------1-1.png",
+"url": "https://www.twitch.tv/voicetv",
+"referer": "https://www.twitch.tv/",
+"playInNatPlayer": "true"
+},
 
 
 
@@ -509,7 +738,16 @@
 
 
 
-
-
-
-
+]
+}
+]
+                              }
+ 
+                                     ]
+                              }
+ 
+                                     ]
+                               }                              
+ 
+                   ]
+               }
