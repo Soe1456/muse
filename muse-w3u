@@ -115,6 +115,13 @@
 "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-5&api_key=hmcb4rf66f",
 "referer": "https://dooball66.com/"
 },
+
+{
+			"name": "Digital tv",
+			"image": "https://image.shutterstock.com/z/stock-vector-abstract-background-with-straight-lines-and-splashes-in-minimalistic-flat-style-bright-vector-1184674987.jpg",
+			"stations":[
+
+
 {
 "name": " MONO29",
 "image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/mono29.png",
