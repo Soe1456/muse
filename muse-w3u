@@ -1383,6 +1383,288 @@
 "playInNatPlayer": "true"
 },
 
+]
+        },
+
+
+{
+			"name": "TV Movies",
+			"image": "https://media1.giphy.com/media/ej20RQRslMpAUKr0sI/source.gif",
+			"stations":[
+
+{
+"name": "พากย์ไทย",
+"image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",
+"url": "https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8"
+},
+
+{
+"name": "soundtrack",
+"image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",
+"url": "https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080EN.stream/playlist.m3u8"
+},
+
+{
+"name": "",
+"image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",
+"url": "https://www.we-play.tv/watching/tv/fox-thai"
+},
+
+{
+"name": "",
+"image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",
+"url":"https://smart-tv.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "พากย์ไทย",
+"image": "https://i.ibb.co/cTPPmZr/Fox-Movies.png",
+"url": "https://www.we-play.tv/watching/tv/fox-movies"
+},
+
+{
+"name": "soundtrack",
+"image": "https://i.ibb.co/cTPPmZr/Fox-Movies.png",
+"url": "https://we-play.tv/watching/tv/fox-movies-soundtrack",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "",
+"image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",
+"url": "https://www.we-play.tv/watching/tv/fox-action-movies"
+},
+
+{
+"name": "",
+"image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-foxaction&api_key=hmcb4rf66f",
+"referer":"https://dooball66.com",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "",
+"image": "https://i.ibb.co/5BbmwzL/FoxLife.png",
+"url": "https://www.we-play.tv/watching/tv/fox-life"
+},
+
+{
+"name": "",
+"image": "https://i.ibb.co/SP7FysD/foxfamily.png",
+"url": "https://www.we-play.tv/watching/tv/fox-family-movies"
+},
+
+{
+"name": "",
+"image": "https://i.ibb.co/hmr42ZP/hbohd.png",
+"url": "https://www.we-play.tv/watching/tv/hbo-hd"
+},
+
+{
+"name": "",
+"image": "https://i.ibb.co/hmr42ZP/hbohd.png",
+"url": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8"
+},
+
+{
+"name": "",
+"image": "https://www.we-play.tv//uploads/posters/hbo-hits-poster1602801795.jpeg",
+"url": "https://www.we-play.tv/watching/tv/hbo-hits",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "",
+"image": "https://www.we-play.tv//uploads/posters/hbo-hits-poster1602801795.jpeg",
+"url": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "",
+"image": "https://www.we-play.tv//uploads/posters/hbo-signature-poster1602801828.jpeg",
+"url": "https://www.we-play.tv/watching/tv/hbo-signature",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "",
+"image": "https://www.we-play.tv//uploads/posters/hbo-signature-poster1602801828.jpeg",
+"url": "http://dootvthai-hd.com:80/cmd/hbo/sighd/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "",
+"image": "https://i.ibb.co/G9WqRTs/hbofamily.png",
+"url": "https://www.we-play.tv/watching/tv/hbo-family"
+},
+
+{
+"name": "",
+"image": "https://i.ibb.co/G9WqRTs/hbofamily.png",
+"url": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8"
+},
+
+{
+"name": "",
+"image": "https://www.we-play.tv//uploads/posters/cinemax-poster1602801656.jpeg",
+"url": "https://www.we-play.tv/watching/tv/cinemax",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "",
+"image": "https://www.we-play.tv//uploads/posters/cinemax-poster1602801656.jpeg",
+"url": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "",
+"image": "https://we-play.tv/uploads/posters/-poster1602704746.jpeg",
+"url": "https://www.we-play.tv/watching/tv/warner-tv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "",
+"image": "https://i.ibb.co/0MTYkb0/Paramount.png",
+"url": "https://www.we-play.tv/watching/tv/paramount-channel",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "",
+"image": "https://i.ibb.co/D8RkW2W/FlixHD.png",
+"url": "https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "",
+"image": "https://i.ibb.co/9gQTQGy/priveHD.png",
+"url": "https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "",
+"image": "https://www.we-play.tv//uploads/posters/-poster1602704538.jpeg",
+"url": "https://www.we-play.tv/watching/tv/axn-hd",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "",
+"image": "https://www.we-play.tv//uploads/posters/-poster1602704538.jpeg",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-axn&api_key=hmcb4rf66f&ref=none",
+"referer":"https://dooball66.com"
+},
+
+{
+"name": "",
+"image": "https://i.ibb.co/dGbtSnw/BA-Ent.png",
+"url": "https://www.we-play.tv/watching/tv/blueant-entertainment",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "",
+"image": "https://i.ibb.co/qsZcFkz/BA-Xtr.png",
+"url": "https://www.we-play.tv/watching/tv/blueant-extreme",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "",
+"image": "https://www.we-play.tv//uploads/posters/red-by-hbo-poster1602801864.jpeg",
+"url": "https://www.we-play.tv/watching/tv/red-by-hbo",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "",
+"image": "https://i.ibb.co/z8jd88h/Star-Movie.png",
+"url": "https://www.we-play.tv/watching/tv/star-chinese-movies",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "",
+"image": "https://i.ibb.co/MNBrJVM/True-Asian-Series.png",
+"url": "https://we-play.tv/watching/tv/true-asian-series-hd",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "",
+"image": "https://i.ibb.co/5nksnJn/ctb.png",
+"url": "http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0F5nlb1-dCVsYYkj9ERFyKyprKn3xVxtSng&usqp=CAU",
+"url": "https://boxmovielive.com/live/3bb.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "",
+"image": "https://i.ibb.co/TKtNSj3/boxfilm.png",
+"url": "https://cdn6.goprimetime.info/feed/LC52/index.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "",
+"image": "https://i.ibb.co/M6ZcSJN/sunmovies.png",
+"url": "https://cdn6.goprimetime.info/feed/LC1/index.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "",
+"image": "https://i.ibb.co/nn2CZJ7/samurai.png",
+"url": "https://cdn6.goprimetime.info/feed/LC2/index.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "",
+"image": "https://i.ibb.co/qxXSkjN/sanook.png",
+"url": "https://cdn6.goprimetime.info/feed/LC53/index.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "",
+"image": "https://i.ibb.co/zRwbV8j/tvb.png",
+"url": "https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "",
+"image": "https://i.ibb.co/3WjSnnX/mchannel.png",
+"url": "http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "",
+"image": "https://i.ibb.co/QXdXFwV/channel8.png",
+"url": "http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8",
+"playInNatPlayer": "true"
+},
+
+
+
+
 
 
 ]
