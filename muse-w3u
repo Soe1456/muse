@@ -707,7 +707,339 @@
 },
 */
 
+]
+        },
 
+
+{
+			"name": "Documentary",
+			"image": "https://media.tenor.com/images/f968d1cb604528c610c8eac7b6f0c0ef/tenor.gif",
+			"stations":[
+
+
+{
+"name": "สำรวจโลก",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZP_8bw85km2FPusQgcVGWehoroiPO_EJYw&usqp=CAU",
+"url": "https://cdn6.goprimetime.info/feed/LC8/index.m3u8",
+#"userAgent": "exoplayer_video",
+"userAgent": "Mozilla/5.0",
+"playInNatPlayer": "true"
+},
+{
+"name": "สำรวจโลก",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZP_8bw85km2FPusQgcVGWehoroiPO_EJYw&usqp=CAU",
+"url": "http://61.19.242.134/feed/LC8/index.m3u8",
+"userAgent": "Mozilla/5.0",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "เจริญทีวี",
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/charoen.png",
+"url": "https://cdn6.goprimetime.info/feed/LC32/index.m3u8",
+"userAgent": "Mozilla/5.0",
+"playInNatPlayer": "true"
+},
+{
+"name": "แสงจันทร์",
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/moonlight.png",
+"url": "https://www.fwiptv.cc/player_demo.php?channel=60254",
+"referer": "https://www.fwiptv.cc/",
+#"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+{
+"name": "My Science",
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/mysci.png",
+"url": "http://27.254.142.14/mysci.m3u8",
+"referer": "http://27.254.142.14/",
+#"userAgent": "FooBar/1.2.3",
+#"userAgent": "Mozilla/5.0",
+#"userAgent": "Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405",
+#"userAgent": "VLC",
+"playInNatPlayer": "true"
+},
+{
+"name": "My Science",
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/mysci.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=129",
+"referer": "https://www.doomovie-hd.com",
+"playInNatPlayer": "true"
+},
+{
+"name": "My Science-New",
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/mysci.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=129",
+"userAgent": "exoplayer_video",
+"referer": "https://www.doomovie-hd.com/"
+#"playInNatPlayer": "true"
+},
+{
+"name": "My Science-Newx",
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/mysci.png",
+"url": "https://www.livedoomovies.com/02_MYSCIHD_720p/chunklist.m3u8",
+"userAgent": "exoplayer_video"
+},
+{
+"name": "True Explore Wild",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-expwild.png",
+"url": "http://160.119.77.116:8081/iptv/sd-expwild.stream/playlist.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Explore Life",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-explife.png",
+"url": "http://160.119.77.116:8081/iptv/sd-explife.stream/playlist.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Explore Sci",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-expsci.png",
+"url": "https://doofootball.livestream-cdn.com/iptv/sd-expsci.stream/chunks.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "BBC Earth",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbcearth.png",
+#"url": "https://www.doomovie-hd.com/?r=tv_view&id=52",
+"url": "https://doomovie.com/live/bbc-earth",
+"referer": "https://doomovie.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "BBC Lifestyle",
+"image": "https://www.doofree88.com/storage/live/9yb9Ng4uhP1goO0FVrIO9ETyOAkKrV3lzBcbPy6R.png",
+"url": "https://doomovie.com/live/bbc-lifestyle",
+"referer": "https://doomovie.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Discovery Channel",
+"image": "https://i2.wp.com/www.busiweek.com/wp-content/uploads/2018/07/DiscoveryBusinessWeek.png",
+"url": "https://we-play.tv/watching/tv/discovery-channel", "referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Discovery Asia",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-discovery.png",
+"url": "https://we-play.tv/watching/tv/discovery-asia", "referer": "https://we-play.tv/",
+#"url": "https://doomovie.com/live/discovery-asia", "referer": "https://doomovie.com/",
+#"url": "https://www.doomovie-hd.com/?r=tv_view&id=57", "referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Discovery SCI",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvT-xchtDyLaRgzRKxDz3jATE1S7G8wnyLyQ&usqp=CAU",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=114",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Discovery History",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxL7iyaFmHU-MMDawgbUGWDRoeVjDfvxvcgg&usqp=CAU",
+"url": "http://160.119.77.116:8081/iptv/uk-discoveryhistory.stream/playlist.m3u8",
+#"url": "http://160.119.77.116:8081/iptv/hd-history.stream/playlist.m3u8",
+#"referer": "https://we-play.tv/",
+"userAgent": "exoplayer_video"
+#"playInNatPlayer": "true"
+},
+{
+"name": "History HD",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/458px-History_Logo.svg.png",
+#"url": "https://we-play.tv/watching/tv/history-hd",
+"url": "http://160.119.77.116:8081/iptv/hd-history.stream/playlist.m3u8",
+#"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "H2",
+"image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",
+"url": "https://we-play.tv/watching/tv/history-h2",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Nat Geo Graphic",
+"image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/National_Geographic_Logo_2016.png",
+"url": "https://we-play.tv/watching/tv/national-geographic",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Nat Geo Wild",
+"image": "https://i.pinimg.com/originals/bc/ed/c4/bcedc44b1f6b01d1e54c60601aed5780.png",
+"url": "https://we-play.tv/watching/tv/nat-geo-wild",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Animal Planet",
+"image": "https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",
+"url": "https://we-play.tv/watching/tv/animal-planet",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Animal Planet USA",
+"image": "https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",
+"url": "https://ustvgo.tv/animal-planet-live/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Science USA",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Science_Channel_2016.png/200px-Science_Channel_2016.png",
+"url": "https://ustvgo.tv/science/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Love Nature",
+"image": "https://www.thematv.com/images/news/love-nature-4k.png",
+"url": "https://we-play.tv/watching/tv/lovenature-4k",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Love Nature USA",
+"image": "https://www.thematv.com/images/news/love-nature-4k.png",
+"url": "https://bamus-eng-roku.amagi.tv/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "PSI สาระดี 24 ชั่วโมง",
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/psi.png",
+"url": "http://96.30.124.99:1935/edgepsi/PSIHD.stream_720p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Asian Food Network",
+"image": "https://www.we-play.tv//uploads/posters/asian-food-channel-poster1602705524.jpeg",
+"url": "https://we-play.tv/watching/tv/asian-food-channel",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Food Network",
+"image": "https://www.we-play.tv//uploads/posters/-poster1602704522.jpeg",
+"url": "https://we-play.tv/watching/tv/food-network",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Waku Waku Japan",
+"image": "https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/waku-waku-large.png",
+"url": "https://we-play.tv/watching/tv/waku-waku-japan",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "KBS World",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/800px-KBS_World_%282009%29.svg.png",
+"url": "https://we-play.tv/watching/tv/kbs-world",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "TLC",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/640px-Tlc_logo_discovery.svg.png",
+"url": "https://we-play.tv/watching/tv/tlc-hd",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Outdoor Channel",
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Outdoor_Channel_2017.png/220px-Outdoor_Channel_2017.png",
+"url": "https://we-play.tv/watching/tv/outdoor-channel",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Travel Channel USA",
+"image": "https://tvreleasedates.com/wp-content/uploads/2019/05/tchannel.png",
+"url": "https://ustvgo.tv/travel-channel-live-free/",
+"referer": "https://ustvgo.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Travel TV Russia",
+"image": "https://tv.traveltv.bg/wp-content/uploads/sites/2/2014/12/TRAVEL_CURVES_SHADOW-728x288.png",
+"url": "http://31.13.223.103:1935/travel/travel.stream/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Travel Guide TV Russia",
+"image": "https://satsis.info/uploads/posts/2019-05/1559055803_www.satsis.info__travel-guide-tv.jpg",
+"url": "http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Russia Today Documentary",
+"image": "https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png",
+"url": "https://rt-doc.secure.footprint.net/1101.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Outside TV",
+"image": "http://outsidetvcdn.outsidetv.com/img/theme/header_logo_v2.png",
+"url": "https://outsidetv-roku-us.amagi.tv/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Way Point",
+"image": "https://lh3.googleusercontent.com/Y75swKZiF976cC34ingBDNaAUexKFuZ6A5CsOkCs_LG9Epqmhlru0S1ydV5bf4f4DYQ=s180-rw",
+"url": "https://waypointtv-samsung.sinclair.wurl.com/manifest/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "PURSUIT UP",
+"image": "https://images.squarespace-cdn.com/content/v1/5d70010bf3397e0001480afb/1570829868597-Z2S8LNRVVP3U7E1DNHUX/ke17ZwdGBToddI8pDm48kPCKOULcG7ZXqZGAlYEl4XcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcMMuyR7W_UPKdK9p3vyVTzhnUa15Q8j3BDmW4KTWRryj-ARwCt95ic6X0v16xT7d3/9+PursuitUP-1024x401.png",
+"url": "https://pursuitup.samsung.wurl.com/manifest/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "HUNT Channel",
+"image": "https://www.pngkit.com/png/full/206-2062370_hunt-hunt-channel.png",
+"url": "https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Outdoor America",
+"image": "https://www.outdooramerica.com/wp-content/uploads/2020/04/Outdoor-America-logo-color.png",
+"url": "https://obsession-media.sinclair.wurl.com/manifest/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "TV Agro HD",
+"image": "http://tvagro.tv/wp-content/uploads/2019/05/logo-tvagro-png-letras-blancas.png",
+"url": "http://179.1.7.198:1935/live/TVAgroHD.stream_360p/.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "The Pet Collective",
+"image": "https://www.viewlift.com/common/assets/img/clients/thepetcollective.png",
+"url": "https://the-pet-collective-linear.sinclair.wurl.com/manifest/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "DIY Network",
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/diy.png",
+"url": "https://ustvgo.tv/diy/"
+},
+{
+"name": "NASA",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/220px-NASA_logo.svg.png",
+"url": "http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7",
+"referer": "http://hls.ums.ustream.tv/",
+"playInNatPlayer": "true"
+},
 
 
 
