@@ -22,14 +22,14 @@
 {
 "name": "Premier 1-2",   
 "image": "https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",  
-"url": "http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8",
+"url": "https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8",
 "playInNatPlayer": "true"
 },
 
 {
 "name": "Premier 1-3",   
 "image": "https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",  
-"url": "https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8"
+"url": "https://sport.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8"
 },
 
 {
@@ -42,7 +42,7 @@
 {
 "name": "Premier 1-5",   
 "image": "https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",  
-"url": "https://www.doofootball.com/live/streaming/epl1backup/552903"
+"url": "https://www.doofootball.com/dootv/live/epl1#main_dootv"
 },
 
 {
