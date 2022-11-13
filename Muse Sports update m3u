@@ -1,31 +1,122 @@
 {
-       "name": "🎥All-In-One🎞️",
-       "author": "MUSE",
-       "url": "https://raw.githubusercontent.com/Soe1456/muse/main/All-In-1",
-       "image": "https://cdn.dribbble.com/users/5055/screenshots/5066074/dribbble-muse.gif",
-       "groups": [
- 
+"name": "SuperSportAfrica_By_EkBanNa",
+"author": "EkBanNa",
+"image": "http://bit.ly/3fmWO2f",
+
+"stations":[
 
 {
-        "name": "Importar-muse-mix-tv",
-        "image": "https://j.gifs.com/vO0xEx.gif",
-        "groups":[
-        
-        
-    
-{"name": "musetvfree",
-	"image": "https://i.pinimg.com/originals/b9/7d/c2/b97dc288d71e7938c1ce8b7faacdc9ac.gif",
-	"url": "http://tiny.cc/testmuse",
-	"import": false},        
-        
-{"name": "musetvfree",
-	"image": "https://media1.giphy.com/headers/omerismos/3gFzR5rNSEYu.gif",
-	"url": "http://w3ubin.com/B17ZGb8Cx.w3u",
-	"import": false},
+name:"",
+"author": "EkBanNa",
+image:"https://img.sport-tv-guide.live/images/tv-station-supersport-five-295.png",
+url:"https://maxsport.one/supersportlaliga.php",
+"referer": "http://livetv.sx/enx/'",
+playInNatPlayer: "true"
+},
+{
+name:"",
+"author": "EkBanNa",
+image:"https://img.sport-tv-guide.live/images/tv-station-supersport-seven-297.png",
+url:"https://maxsport.one/supersportfootball.php",
+"referer": "http://livetv.sx/enx/",
+playInNatPlayer: "true"
+},
+{
+name:"",
+"author": "EkBanNa",
+image:"https://img.sport-tv-guide.live/images/tv-station-supersport-nine-299.png",
+url:"https://maxsport.one/supersportpremier.php",
+"referer": "http://livetv.sx/enx/",
+playInNatPlayer: "true"
+},
+{
+name:"",
+"author": "EkBanNa",
+image:"https://img.sport-tv-guide.live/images/tv-station-supersport-select-sa-303.png",
+url:"https://maxsport.one/supersportpsl.php",
+"referer": "http://livetv.sx/enx/",
+playInNatPlayer: "true"
+},
+{
+name:"",
+"author": "EkBanNa",
+image:"https://img.sport-tv-guide.live/images/tv-station-supersport-fourteen-1144.png",
+url:"https://maxsport.one/supersportaction.php",
+"referer": "http://livetv.sx/enx/",
+playInNatPlayer: "true"
+},
+{
+name:"",
+"author": "EkBanNa",
+image:"https://img.sport-tv-guide.live/images/tv-station-supersport-six-296.png",
+url:"https://maxsport.one/supersportgrandstand.php",
+"referer": "http://livetv.sx/enx/",
+playInNatPlayer: "true"
+},
+{
+name:"",
+"author": "EkBanNa",
+image:"https://img.sport-tv-guide.live/images/tv-station-maximo-1-301.png",
+url:"https://maxsport.one/supersportmaximo1.php",
+"referer": "http://livetv.sx/enx/",
+playInNatPlayer: "true"
+},
+{
+name:"",
+"author": "EkBanNa",
+image:"https://img.sport-tv-guide.live/images/tv-station-supersport-ten-665.png",
+url:"https://maxsport.one/supersportennis.php",
+"referer": "http://livetv.sx/enx/",
+playInNatPlayer: "true"
+},
+{
+name:"",
+"author": "EkBanNa",
+image:"https://img.sport-tv-guide.live/images/tv-station-supersport-twelve-670.png",
+url:"https://maxsport.one/supersportcricket.php",
+"referer": "http://livetv.sx/enx/",
+playInNatPlayer: "true"
+},
+{
+name:"",
+"author": "EkBanNa",
+image:"https://img.sport-tv-guide.live/images/tv-station-supersport-thirteen-768.png",
+url:"https://maxsport.one/supersportrugby.php",
+"referer": "http://livetv.sx/enx/",
+playInNatPlayer: "true"
+},
+{
+name:"",
+"author": "EkBanNa",
+image:"https://img.sport-tv-guide.live/images/tv-station-supersport-one-291.png",
+url:"https://maxsport.one/supersportvariety1.php",
+"referer": "http://livetv.sx/enx/",
+playInNatPlayer: "true"
+},
+{
+name:"",
+"author": "EkBanNa",
+image:"https://img.sport-tv-guide.live/images/tv-station-supersport-two-292.png",
+url:"https://maxsport.one/supersportvariety2.php",
+"referer": "http://livetv.sx/enx/",
+playInNatPlayer: "true"
+},
+{
+name:"",
+"author": "EkBanNa",
+image:"https://img.sport-tv-guide.live/images/tv-station-supersport-three-293.png",
+url:"https://maxsport.one/supersportvariety3.php",
+"referer": "http://livetv.sx/enx/",
+playInNatPlayer: "true"
+},
+{
+name:"",
+"author": "EkBanNa",
+image:"https://img.sport-tv-guide.live/images/tv-station-supersport-four-294.png",
+url:"https://maxsport.one/supersportvariety4.php",
+"referer": "http://livetv.sx/enx/",
+playInNatPlayer: "true"
 
-{"name": "musetvfree",
-	"image": "https://media0.giphy.com/media/3o7WIKBSdsc0vsWScM/giphy.gif",
-	"url": "",
-	"import": false},
+},
 ]
 }
