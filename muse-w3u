@@ -2,10 +2,10 @@
        "name": "🎥muse-test-tv🎞️",
        "author": "MUSE",
        "image": "https://cdn.dribbble.com/users/5055/screenshots/5066074/dribbble-muse.gif",
-       "url": "http://tiny.cc/musew3u",
+       "url": "https://raw.githubusercontent.com/Soe1456/muse/main/muse-w3u",
        "groups": [
        
-       
+{"name": "channel","image": "https://api.cloud-streaming.com/images/team-logo/team1.png","stations":[       
        
 {"name": "epl1", "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1818.png","url": "https://www.doonung1234.com/match/view/34509/epl1","referer": "https://www.doonung1234.com/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
 {"name": "epl2", "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1819.png","url": "https://www.doonung1234.com/match/view/34509/epl2","referer": "https://www.doonung1234.com/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
