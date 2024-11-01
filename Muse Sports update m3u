@@ -5,14 +5,18 @@
 
 "stations":[
 
-{
-name:"",
-"author": "EkBanNa",
-image:"https://img.sport-tv-guide.live/images/tv-station-supersport-five-295.png",
-url:"https://maxsport.one/supersportlaliga.php",
-"referer": "http://livetv.sx/enx/'",
-playInNatPlayer: "true"
-},
+{name:"test","author": "muse",image:"",url:"https://dookeela.live/events/event/2701","referer": "https://dookeela.live/",playInNatPlayer: "true"},
+{name:"","author": "muse",image:"",url:"","referer": "",playInNatPlayer: "true"},
+{name:"","author": "muse",image:"",url:"","referer": "",playInNatPlayer: "true"},
+{name:"","author": "muse",image:"",url:"","referer": "",playInNatPlayer: "true"},
+{name:"","author": "muse",image:"",url:"","referer": "",playInNatPlayer: "true"},
+{name:"","author": "muse",image:"",url:"","referer": "",playInNatPlayer: "true"},
+{name:"","author": "muse",image:"",url:"","referer": "",playInNatPlayer: "true"},
+{name:"","author": "muse",image:"",url:"","referer": "",playInNatPlayer: "true"},
+
+
+
+
 {
 name:"",
 "author": "EkBanNa",
