@@ -121,6 +121,19 @@ url:"https://maxsport.one/supersportvariety4.php",
 "referer": "http://livetv.sx/enx/",
 playInNatPlayer: "true"
 
+
+]},
+{"name": "muse-99dooball","image": "https://99dooball.com/wp-content/uploads/2024/07/02-99-DOOBALL.png","stations":[
+
+{"name": "True Premier Football HD1", "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf1.jpg","url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8","referer": "https://www.dooballfree24hr.com/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+
+
+
+
+
+
+
+
 },
 ]
 }
