@@ -6,6 +6,15 @@
 "stations":[
 
 {name:"test","author": "muse",image:"",url:"https://dookeela.live/events/event/2701","referer": "https://dookeela.live/",playInNatPlayer: "true"},
+{name:"test2","author": "muse",image:"",url:"https://cdn.livetv817.me/webplayer.php?t=ifr&c=2534293&lang=en&eid=239677566&lid=2534293&ci=6514&si=4","referer": "https://cdn.livetv817.me/",playInNatPlayer: "true"},
+{name:"","author": "muse",image:"",url:"","referer": "",playInNatPlayer: "true"},
+{name:"","author": "muse",image:"",url:"","referer": "",playInNatPlayer: "true"},
+{name:"","author": "muse",image:"",url:"","referer": "",playInNatPlayer: "true"},
+{name:"","author": "muse",image:"",url:"","referer": "",playInNatPlayer: "true"},
+{name:"","author": "muse",image:"",url:"","referer": "",playInNatPlayer: "true"},
+{name:"","author": "muse",image:"",url:"","referer": "",playInNatPlayer: "true"},
+
+
 {name:"","author": "muse",image:"",url:"","referer": "",playInNatPlayer: "true"},
 {name:"","author": "muse",image:"",url:"","referer": "",playInNatPlayer: "true"},
 {name:"","author": "muse",image:"",url:"","referer": "",playInNatPlayer: "true"},
@@ -13,120 +22,6 @@
 {name:"","author": "muse",image:"",url:"","referer": "",playInNatPlayer: "true"},
 {name:"","author": "muse",image:"",url:"","referer": "",playInNatPlayer: "true"},
 {name:"","author": "muse",image:"",url:"","referer": "",playInNatPlayer: "true"},
-
-
-
-
-{
-name:"",
-"author": "EkBanNa",
-image:"https://img.sport-tv-guide.live/images/tv-station-supersport-seven-297.png",
-url:"https://maxsport.one/superfootball.php",
-"referer": "http://livetv.sx/enx/",
-playInNatPlayer: "true"
-},
-{
-name:"",
-"author": "EkBanNa",
-image:"https://img.sport-tv-guide.live/images/tv-station-supersport-nine-299.png",
-url:"https://maxsport.one/supersportpremier.php",
-"referer": "http://livetv.sx/enx/",
-playInNatPlayer: "true"
-},
-{
-name:"",
-"author": "EkBanNa",
-image:"https://img.sport-tv-guide.live/images/tv-station-supersport-select-sa-303.png",
-url:"https://maxsport.one/supersportpsl.php",
-"referer": "http://livetv.sx/enx/",
-playInNatPlayer: "true"
-},
-{
-name:"",
-"author": "EkBanNa",
-image:"https://img.sport-tv-guide.live/images/tv-station-supersport-fourteen-1144.png",
-url:"https://maxsport.one/supersportaction.php",
-"referer": "http://livetv.sx/enx/",
-playInNatPlayer: "true"
-},
-{
-name:"",
-"author": "EkBanNa",
-image:"https://img.sport-tv-guide.live/images/tv-station-supersport-six-296.png",
-url:"https://maxsport.one/supersportgrandstand.php",
-"referer": "http://livetv.sx/enx/",
-playInNatPlayer: "true"
-},
-{
-name:"",
-"author": "EkBanNa",
-image:"https://img.sport-tv-guide.live/images/tv-station-maximo-1-301.png",
-url:"https://maxsport.one/supersportmaximo1.php",
-"referer": "http://livetv.sx/enx/",
-playInNatPlayer: "true"
-},
-{
-name:"",
-"author": "EkBanNa",
-image:"https://img.sport-tv-guide.live/images/tv-station-supersport-ten-665.png",
-url:"https://maxsport.one/supersportennis.php",
-"referer": "http://livetv.sx/enx/",
-playInNatPlayer: "true"
-},
-{
-name:"",
-"author": "EkBanNa",
-image:"https://img.sport-tv-guide.live/images/tv-station-supersport-twelve-670.png",
-url:"https://maxsport.one/supersportcricket.php",
-"referer": "http://livetv.sx/enx/",
-playInNatPlayer: "true"
-},
-{
-name:"",
-"author": "EkBanNa",
-image:"https://img.sport-tv-guide.live/images/tv-station-supersport-thirteen-768.png",
-url:"https://maxsport.one/supersportrugby.php",
-"referer": "http://livetv.sx/enx/",
-playInNatPlayer: "true"
-},
-{
-name:"",
-"author": "EkBanNa",
-image:"https://img.sport-tv-guide.live/images/tv-station-supersport-one-291.png",
-url:"https://maxsport.one/supersportvariety1.php",
-"referer": "http://livetv.sx/enx/",
-playInNatPlayer: "true"
-},
-{
-name:"",
-"author": "EkBanNa",
-image:"https://img.sport-tv-guide.live/images/tv-station-supersport-two-292.png",
-url:"https://maxsport.one/supersportvariety2.php",
-"referer": "http://livetv.sx/enx/",
-playInNatPlayer: "true"
-},
-{
-name:"",
-"author": "EkBanNa",
-image:"https://img.sport-tv-guide.live/images/tv-station-supersport-three-293.png",
-url:"https://maxsport.one/supersportvariety3.php",
-"referer": "http://livetv.sx/enx/",
-playInNatPlayer: "true"
-},
-{
-name:"",
-"author": "EkBanNa",
-image:"https://img.sport-tv-guide.live/images/tv-station-supersport-four-294.png",
-url:"https://maxsport.one/supersportvariety4.php",
-"referer": "http://livetv.sx/enx/",
-playInNatPlayer: "true"
-
-
-]},
-{"name": "muse-99dooball","author": "EkBanNa","image": "https://99dooball.com/wp-content/uploads/2024/07/02-99-DOOBALL.png","stations":[
-
-{"name": "True Premier Football HD1", "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf1.jpg","url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8","referer": "https://www.dooballfree24hr.com/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
-
 
 
 
